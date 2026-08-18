@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="180" align="center" valign="top">
-  <img src="https://github.com/GusnaldiRPH.png" width="150" style="border-radius:50%;" alt="Gusnaldi avatar"/>
+  <img src="./fox.svg" width="150" alt="ASCII fox"/>
   <br/><br/>
   <b>Gusnaldi</b>
   <br/>
