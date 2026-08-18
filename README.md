@@ -19,24 +19,7 @@
 </td>
 <td valign="top">
 
-```ansi
-[35mGusnaldi[0m@[35mGitHub[0m
-------------------
-[36mOS[0m: Web Developer Edition
-[36mHost[0m: GusnaldiRPH/portfolio
-[36mKernel[0m: JavaScript / TypeScript
-[36mUptime[0m: Learning since 20XX
-[36mPackages[0m: React, Next.js, Node.js, PHP
-[36mShell[0m: bash / zsh
-[36mLanguages[0m: JS, TS, Python, Java, C++
-[36mDatabases[0m: MySQL, MongoDB
-[36mTools[0m: Git, GitHub, VS Code
-[36mFocus[0m: Web Dev, DSA, Clean Code
-[36mFun Fact[0m: Turns coffee into commits ☕
-[36mEmail[0m: gusnaldi1388@gmail.com
-
-[35m███[0m[36m███[0m[33m███[0m[32m███[0m[34m███[0m[35m███[0m
-```
+  <img src="./neofetch.svg" alt="Gusnaldi neofetch info" width="100%"/>
 
 </td>
 </tr>
