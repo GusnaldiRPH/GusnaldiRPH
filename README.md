@@ -1,7 +1,5 @@
-<div align="center" style="background-image: url('./banner.jpg'); background-size: cover; background-position: center; padding: 60px 20px; border-radius: 10px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+Profil+Saya!;Full-Stack+Developer;Mari+Berkolaborasi!" alt="Typing SVG" />
-  </a>
+<div align="center">
+  <img src="./banner-typing.svg" width="100%"/>
 </div>
 
 <table>
