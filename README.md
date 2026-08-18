@@ -1,88 +1,90 @@
 <div align="center">
 
-  <!-- Header Banner Pixel -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=421559&height=220&section=header&text=Hi,%20I'm%20Gusnaldi%20🎮&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" />
-
-  <!-- Subtitle Badge / Typing Effect -->
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=A+Pixel+Sorcerer+%26+Gamer;Web+Developer+in+making;Building+cool+things..." alt="Typing SVG" />
-    </a>
-  </p>
-
-  <!-- Visitor Count -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=GusnaldiRPH&label=Visits&color=8A2BE2&style=flat-square" alt="Visitor Count" />
-    <img src="https://img.shields.io/github/followers/GusnaldiRPH?label=Followers&style=flat-square&color=4169E1" alt="Followers" />
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=421559&height=150&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
----
+<table>
+<tr>
+<td width="180" align="center" valign="top">
+  <img src="https://github.com/GusnaldiRPH.png" width="150" style="border-radius:50%;" alt="Gusnaldi avatar"/>
+  <br/><br/>
+  <b>Gusnaldi</b>
+  <br/>
+  <sub>@GusnaldiRPH</sub>
+  <br/><br/>
+  <a href="https://github.com/GusnaldiRPH?tab=followers">
+    <img src="https://img.shields.io/github/followers/GusnaldiRPH?label=Follow&style=social" alt="followers"/>
+  </a>
+</td>
+<td valign="top">
 
-<div align="center">
+```ansi
+[35mGusnaldi[0m@[35mGitHub[0m
+------------------
+[36mOS[0m: Web Developer Edition
+[36mHost[0m: GusnaldiRPH/portfolio
+[36mKernel[0m: JavaScript / TypeScript
+[36mUptime[0m: Learning since 20XX
+[36mPackages[0m: React, Next.js, Node.js, PHP
+[36mShell[0m: bash / zsh
+[36mLanguages[0m: JS, TS, Python, Java, C++
+[36mDatabases[0m: MySQL, MongoDB
+[36mTools[0m: Git, GitHub, VS Code
+[36mFocus[0m: Web Dev, DSA, Clean Code
+[36mFun Fact[0m: Turns coffee into commits ☕
+[36mEmail[0m: gusnaldi1388@gmail.com
 
-  ### 👋 About Me
+[35m███[0m[36m███[0m[33m███[0m[32m███[0m[34m███[0m[35m███[0m
+```
 
-  💻 I'm a developer who loves building things with code.
-
-  🎓 Currently learning and improving my skills in  
-  **Web Development, Programming, Data Structures & Algorithms.**
-
-  🚀 I enjoy creating projects, experimenting with new technologies, and turning ideas into useful applications.
-
-</div>
-
----
-
-<div align="center">
-
-  ### 🛠️ Technology Stack
-
-  <p align="center">
-    <!-- Baris 1 -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-    <br/><br/>
-    <!-- Baris 2 -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  </p>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 Player Stats
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GusnaldiRPH&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusnaldiRPH&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GusnaldiRPH&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 📫 Connect With Me
+### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="mailto:gusnaldi1388@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/GusnaldiRPH"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>
+
+---
+
+### 🏆 Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GusnaldiRPH&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusnaldiRPH&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GusnaldiRPH&theme=synthwave&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 📫 Connect
+
+<p align="center">
+  <a href="mailto:gusnaldi1388@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/GusnaldiRPH"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GusnaldiRPH&label=Visits&color=8A2BE2&style=flat-square" alt="Visitor Count"/>
 </p>
