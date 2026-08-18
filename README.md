@@ -1,141 +1,88 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=220&section=header&text=Hi,%20I'm%20Gusnaldi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Web%20Developer%20%7C%20Programmer%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=18" />
+  <!-- Header Banner Pixel -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=421559&height=220&section=header&text=Hi,%20I'm%20Gusnaldi%20🎮&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" />
+
+  <!-- Subtitle Badge / Typing Effect -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=A+Pixel+Sorcerer+%26+Gamer;Web+Developer+in+making;Building+cool+things..." alt="Typing SVG" />
+    </a>
+  </p>
+
+  <!-- Visitor Count -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=GusnaldiRPH&label=Visits&color=8A2BE2&style=flat-square" alt="Visitor Count" />
+    <img src="https://img.shields.io/github/followers/GusnaldiRPH?label=Followers&style=flat-square&color=4169E1" alt="Followers" />
+  </p>
 
 </div>
-
-<br>
-
-<!-- ======================= ABOUT ======================= -->
-
-<div align="center">
-
-## 👋 About Me
-
-💻 I'm a developer who loves building things with code.
-
-🎓 Currently learning and improving my skills in  
-**Web Development, Programming, Data Structures & Algorithms.**
-
-🚀 I enjoy creating projects, experimenting with new technologies,
-and turning ideas into useful applications.
-
-</div>
-
-<br>
 
 ---
 
-<!-- ======================= TECHNOLOGY ======================= -->
-
-<h2 align="center">🛠️ Technology Stack</h2>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,python,java,cpp,mysql,mongodb,git,github,vscode&perline=8" />
+  ### 👋 About Me
+
+  💻 I'm a developer who loves building things with code.
+
+  🎓 Currently learning and improving my skills in  
+  **Web Development, Programming, Data Structures & Algorithms.**
+
+  🚀 I enjoy creating projects, experimenting with new technologies, and turning ideas into useful applications.
 
 </div>
-
-<br>
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
-
-<h2 align="center">📊 My GitHub Stats</h2>
-
 <div align="center">
 
-<a href="https://github.com/GUSNALDI_USERNAME">
+  ### 🛠️ Technology Stack
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GUSNALDI_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-
-</a>
-
-<a href="https://github.com/GUSNALDI_USERNAME">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUSNALDI_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-</a>
+  <p align="center">
+    <!-- Baris 1 -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+    <br/><br/>
+    <!-- Baris 2 -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  </p>
 
 </div>
-
-<br>
-
-<!-- ======================= STREAK ======================= -->
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=GUSNALDI_USERNAME&theme=radical&hide_border=true" />
-
-</div>
-
-<br>
 
 ---
 
-<!-- ======================= CONTRIBUTIONS ======================= -->
-
-<h2 align="center">🐍 Contribution Graph</h2>
+### 🏆 Player Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GUSNALDI_USERNAME/GUSNALDI_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GusnaldiRPH&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusnaldiRPH&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GusnaldiRPH&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
-<br>
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
+### 📫 Connect With Me
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/GUSNALDI_USERNAME/PROJECT-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GUSNALDI_USERNAME&repo=PROJECT-1&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/GUSNALDI_USERNAME/PROJECT-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GUSNALDI_USERNAME&repo=PROJECT-2&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
----
-
-<!-- ======================= SOCIAL ======================= -->
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-
-<a href="https://github.com/GUSNALDI_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<!-- ======================= FOOTER ======================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer" />
-
-</div>
+<p align="center">
+  <a href="mailto:gusnaldi1388@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/GusnaldiRPH"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
