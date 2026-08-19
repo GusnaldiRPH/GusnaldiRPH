@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <img src="./fox.svg" width="280" alt="ASCII fox"/>
+  <img src="./IMG-20260819-WA0001.jpg" width="280" alt="ASCII fox"/>
 
   <br/><br/>
 
