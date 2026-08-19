@@ -93,6 +93,12 @@
 
 ---
 
+![Preview](https://api.microlink.io/?url=https://web-pokemon-phi.vercel.app&screenshot=true&embed=screenshot.url)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://web-pokemon-phi.vercel.app/)
+
+<br/>
+
+---
 <!-- CONNECT -->
 
 <h2>📫 Connect</h2>
