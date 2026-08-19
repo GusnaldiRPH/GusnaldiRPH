@@ -34,7 +34,7 @@
   </pre>
 
   <p>
-    <sub>@GusnaldiRPH</sub>
+    <h3>@GusnaldiRPH</h3>
   </p>
 
   <a href="https://github.com/GusnaldiRPH?tab=followers">
