@@ -1,30 +1,111 @@
-<svg width="580" height="420" viewBox="0 0 560 420" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'Cascadia Code', Consolas, monospace">
-  <rect width="580" height="420" fill="#0d1117" rx="6"/>
-  <text x="24" y="40" font-size="16" font-weight="bold">
-    <tspan fill="#4fa3ff">Gusnaldi</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#4fa3ff">GitHub</tspan>
+<svg
+  width="580"
+  height="470"
+  viewBox="0 0 580 470"
+  xmlns="http://www.w3.org/2000/svg"
+  font-family="'Fira Code', 'Cascadia Code', Consolas, monospace"
+>
+  <!-- Background -->
+  <rect
+    width="580"
+    height="470"
+    fill="#0d1117"
+    rx="8"
+  />
+
+  <!-- Header -->
+  <text
+    x="28"
+    y="42"
+    font-size="24"
+    font-weight="bold"
+  >
+    <tspan fill="#4fa3ff">Gusnaldi</tspan>
+    <tspan fill="#c9d1d9">@</tspan>
+    <tspan fill="#4fa3ff">GitHub</tspan>
   </text>
-  <text x="24" y="58" font-size="14" fill="#6e7681">------------------</text>
-  <g font-size="14">
-    <text x="24" y="86"><tspan fill="#79c0ff">OS</tspan><tspan fill="#c9d1d9">: Web Developer Edition</tspan></text>
-    <text x="24" y="110"><tspan fill="#79c0ff">Host</tspan><tspan fill="#c9d1d9">: GusnaldiRPH/portfolio</tspan></text>
-    <text x="24" y="134"><tspan fill="#79c0ff">Kernel</tspan><tspan fill="#c9d1d9">: JavaScript / TypeScript</tspan></text>
-    <text x="24" y="158"><tspan fill="#79c0ff">Uptime</tspan><tspan fill="#c9d1d9">: Learning since 2023</tspan></text>
-    <text x="24" y="182"><tspan fill="#79c0ff">Packages</tspan><tspan fill="#c9d1d9">: React, Next.js, Node.js, PHP</tspan></text>
-    <text x="24" y="206"><tspan fill="#79c0ff">Shell</tspan><tspan fill="#c9d1d9">: bash / zsh</tspan></text>
-    <text x="24" y="230"><tspan fill="#79c0ff">Languages</tspan><tspan fill="#c9d1d9">: JS, TS, Python, Java, C++</tspan></text>
-    <text x="24" y="254"><tspan fill="#79c0ff">Databases</tspan><tspan fill="#c9d1d9">: MySQL, MongoDB</tspan></text>
-    <text x="24" y="278"><tspan fill="#79c0ff">Tools</tspan><tspan fill="#c9d1d9">: Git, GitHub, VS Code</tspan></text>
-    <text x="24" y="302"><tspan fill="#79c0ff">Focus</tspan><tspan fill="#c9d1d9">: Web Dev, DSA, Clean Code</tspan></text>
-    <text x="24" y="326"><tspan fill="#79c0ff">Fun Fact</tspan><tspan fill="#c9d1d9">: Turns coffee into commits</tspan></text>
-    <text x="24" y="350"><tspan fill="#79c0ff">Email</tspan><tspan fill="#c9d1d9">: gusnaldi1388@gmail.com</tspan></text>
+
+  <!-- Header separator -->
+  <text
+    x="28"
+    y="66"
+    font-size="18"
+    fill="#6e7681"
+  >----------------------</text>
+
+  <!-- System Information -->
+  <g font-size="19">
+
+    <text x="28" y="100">
+      <tspan fill="#79c0ff">OS</tspan>
+      <tspan fill="#c9d1d9">: Web Developer Edition</tspan>
+    </text>
+
+    <text x="28" y="130">
+      <tspan fill="#79c0ff">Host</tspan>
+      <tspan fill="#c9d1d9">: GusnaldiRPH/portfolio</tspan>
+    </text>
+
+    <text x="28" y="160">
+      <tspan fill="#79c0ff">Kernel</tspan>
+      <tspan fill="#c9d1d9">: JavaScript / TypeScript</tspan>
+    </text>
+
+    <text x="28" y="190">
+      <tspan fill="#79c0ff">Uptime</tspan>
+      <tspan fill="#c9d1d9">: Learning since 2023</tspan>
+    </text>
+
+    <text x="28" y="220">
+      <tspan fill="#79c0ff">Packages</tspan>
+      <tspan fill="#c9d1d9">: React, Next.js, Node.js, PHP</tspan>
+    </text>
+
+    <text x="28" y="250">
+      <tspan fill="#79c0ff">Shell</tspan>
+      <tspan fill="#c9d1d9">: bash / zsh</tspan>
+    </text>
+
+    <text x="28" y="280">
+      <tspan fill="#79c0ff">Languages</tspan>
+      <tspan fill="#c9d1d9">: JS, TS, Python, Java, C++</tspan>
+    </text>
+
+    <text x="28" y="310">
+      <tspan fill="#79c0ff">Databases</tspan>
+      <tspan fill="#c9d1d9">: MySQL, MongoDB</tspan>
+    </text>
+
+    <text x="28" y="340">
+      <tspan fill="#79c0ff">Tools</tspan>
+      <tspan fill="#c9d1d9">: Git, GitHub, VS Code</tspan>
+    </text>
+
+    <text x="28" y="370">
+      <tspan fill="#79c0ff">Focus</tspan>
+      <tspan fill="#c9d1d9">: Web Dev, DSA, Clean Code</tspan>
+    </text>
+
+    <text x="28" y="400">
+      <tspan fill="#79c0ff">Fun Fact</tspan>
+      <tspan fill="#c9d1d9">: Turns coffee into commits</tspan>
+    </text>
+
+    <text x="28" y="430">
+      <tspan fill="#79c0ff">Email</tspan>
+      <tspan fill="#c9d1d9">: gusnaldi1388@gmail.com</tspan>
+    </text>
+
   </g>
-  <!-- color swatch bar (blue gradient tones) -->
+
+  <!-- Color Swatch -->
   <g>
-    <rect x="24" y="374" width="24" height="16" fill="#0d1b3e"/>
-    <rect x="48" y="374" width="24" height="16" fill="#1F6FEB"/>
-    <rect x="72" y="374" width="24" height="16" fill="#388bfd"/>
-    <rect x="96" y="374" width="24" height="16" fill="#4fa3ff"/>
-    <rect x="120" y="374" width="24" height="16" fill="#79c0ff"/>
-    <rect x="144" y="374" width="24" height="16" fill="#a5d6ff"/>
+    <rect x="28" y="448" width="28" height="14" fill="#0d1b3e"/>
+    <rect x="56" y="448" width="28" height="14" fill="#1F6FEB"/>
+    <rect x="84" y="448" width="28" height="14" fill="#388bfd"/>
+    <rect x="112" y="448" width="28" height="14" fill="#4fa3ff"/>
+    <rect x="140" y="448" width="28" height="14" fill="#79c0ff"/>
+    <rect x="168" y="448" width="28" height="14" fill="#a5d6ff"/>
   </g>
+
 </svg>
