@@ -1,4 +1,3 @@
-  :::writing{variant="document" id="41726" title="README.md — Full Responsive Version"}
 <div align="center">
   <img src="./banner.jpg" width="100%" alt="Banner"/>
 </div>
@@ -116,4 +115,3 @@
     alt="Visitor Count"
   />
 </p>
-:::
