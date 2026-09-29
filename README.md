@@ -72,11 +72,20 @@
 
 <br/>
 
-<h2>📊 GitHub Stats</h2>
+<h2>👨‍💻 Tentang Saya</h2>
 
-![](https://github-readme-stats.shion.dev/api?username=GusnaldiRPH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=GusnaldiRPH&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GusnaldiRPH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  Halo, saya <b>Gusnaldi</b> 👋 seorang <b>Full-Stack Developer</b> yang suka
+  membangun aplikasi web dan mobile dari sisi tampilan sampai server.
+  Saya terbiasa bekerja dengan berbagai bahasa dan framework, mulai dari
+  JavaScript/TypeScript, React, Laravel, hingga Python dan C#.
+</p>
+
+<p>
+  Saya senang mengubah ide menjadi produk yang berfungsi, rapi, dan nyaman
+  dipakai. Selain coding, saya juga suka mendesain antarmuka menggunakan
+  Figma dan Canva.
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=GusnaldiRPH&icon=1&color=3)](https://visitcount.itsvg.in)
