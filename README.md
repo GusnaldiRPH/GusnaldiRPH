@@ -42,13 +42,6 @@
 
 <br />
 
-<!-- ========== NEOFETCH ========== -->
-<div align="center">
-  <img src="./neofetch.svg" alt="Gusnaldi neofetch information" width="100%" />
-</div>
-
-<br />
-
 ---
 
 <!-- ========== ABOUT ========== -->
